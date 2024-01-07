@@ -1,0 +1,4 @@
+0 Chickenpox
+1 Measles
+2 Monkeypox
+3 Normal
